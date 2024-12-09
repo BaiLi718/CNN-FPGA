@@ -6,4 +6,4 @@ Conv2D->Tanh Activation->AvgPool->Conv2D->Tanh Activation->AvgPool->Conv2D->Tanh
 
 Further information regarding architecture and number of LUTS can be found in the Hardware Documentation
 
-≤‚ ‘
+this is a test
